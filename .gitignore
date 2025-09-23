@@ -1,0 +1,18 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+build/
+dist/
+
+# VS Code settings
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
